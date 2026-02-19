@@ -10,7 +10,7 @@ Hi 👋, I'm Tarak Rowthu
 📫 Connect With Me
 
 - ✉ Email: taraknagavenkatadurgeshrowthu@gmail.com
-⭐ “Learning every day and building towards a strong developer career.”
+- ⭐ “Learning every day and building towards a strong developer career.”
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,react" />
 </p>
