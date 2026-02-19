@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarak</h1>
-______________________________________________________________________________________
-🎓 B.Tech Student | 💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast | 🇮🇳 India
+<h3 align="center">🎓 B.Tech Student | 💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast | 🇮🇳 India</h3>
+
+<hr>
 
 - 🌱 Currently learning Full Stack Development and AI
 - 💼 Building real-world projects 
