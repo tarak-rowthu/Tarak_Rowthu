@@ -1,5 +1,5 @@
-Hi 👋, I'm Tarak Rowthu
-
+                          Hi 👋, I'm Tarak Rowthu
+______________________________________________________________________________________
 🎓 B.Tech Student | 💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast | 🇮🇳 India
 
 - 🌱 Currently learning Full Stack Development and AI
