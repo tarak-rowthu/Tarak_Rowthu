@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarak Rowthu</h1>
-<h3 align="center">🎓 B.Tech Student | 💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast | 🇮🇳 India</h3>
-
-<hr>
-
+🎓 B.Tech Student | 💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast | 🇮🇳 India
 - 🌱 Currently learning Full Stack Development and AI
 - 💼 Building real-world projects 
 - 🧠 Strong interest in Java, Web Development, and Problem Solving
