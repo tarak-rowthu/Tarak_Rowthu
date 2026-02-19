@@ -1,4 +1,4 @@
-                          Hi 👋, I'm Tarak Rowthu
+<h1 align="center">Hi 👋, I'm Tarak</h1>
 ______________________________________________________________________________________
 🎓 B.Tech Student | 💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast | 🇮🇳 India
 
