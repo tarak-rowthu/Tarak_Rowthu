@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarak</h1>
+<h1 align="center">Hi 👋, I'm Tarak Rowthu</h1>
 <h3 align="center">🎓 B.Tech Student | 💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast | 🇮🇳 India</h3>
 
 <hr>
