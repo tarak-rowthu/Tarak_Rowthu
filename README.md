@@ -1,3 +1,4 @@
+<div style="border:1px solid gray; padding:20px; border-radius:10px;">
 <h1 align="center">Hi 👋, I'm Tarak Rowthu</h1>
 
 -🎓 B.Tech Student | 💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast | 🇮🇳 India
