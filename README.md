@@ -12,6 +12,6 @@ Hi 👋, I'm Tarak Rowthu
 - ✉ Email: taraknagavenkatadurgeshrowthu@gmail.com
 - ⭐ “Learning every day and building towards a strong developer career.”
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,react" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,git,github" />
 </p>
 
